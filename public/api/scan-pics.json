@@ -1,0 +1,33 @@
+{
+  "success": true,
+  "files": [
+    {
+      "name": "win_10.jpg",
+      "size": 22309
+    },
+    {
+      "name": "win_11.jpg",
+      "size": 265830
+    },
+    {
+      "name": "win_3.png",
+      "size": 36035
+    },
+    {
+      "name": "win_7.jpg",
+      "size": 56135
+    },
+    {
+      "name": "win_8.jpg",
+      "size": 135466
+    },
+    {
+      "name": "win_vista.jpg",
+      "size": 136624
+    },
+    {
+      "name": "win_xp.jpg",
+      "size": 66444
+    }
+  ]
+}
